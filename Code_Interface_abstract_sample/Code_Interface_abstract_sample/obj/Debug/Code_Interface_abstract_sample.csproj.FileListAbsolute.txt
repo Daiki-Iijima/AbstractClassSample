@@ -1,0 +1,7 @@
+C:\Users\daiki\Desktop\VisualStudioRepo\C#\Code_Interface_abstract_sample\Code_Interface_abstract_sample\bin\Debug\Code_Interface_abstract_sample.exe.config
+C:\Users\daiki\Desktop\VisualStudioRepo\C#\Code_Interface_abstract_sample\Code_Interface_abstract_sample\bin\Debug\Code_Interface_abstract_sample.exe
+C:\Users\daiki\Desktop\VisualStudioRepo\C#\Code_Interface_abstract_sample\Code_Interface_abstract_sample\bin\Debug\Code_Interface_abstract_sample.pdb
+C:\Users\daiki\Desktop\VisualStudioRepo\C#\Code_Interface_abstract_sample\Code_Interface_abstract_sample\obj\Debug\Code_Interface_abstract_sample.csprojAssemblyReference.cache
+C:\Users\daiki\Desktop\VisualStudioRepo\C#\Code_Interface_abstract_sample\Code_Interface_abstract_sample\obj\Debug\Code_Interface_abstract_sample.csproj.CoreCompileInputs.cache
+C:\Users\daiki\Desktop\VisualStudioRepo\C#\Code_Interface_abstract_sample\Code_Interface_abstract_sample\obj\Debug\Code_Interface_abstract_sample.exe
+C:\Users\daiki\Desktop\VisualStudioRepo\C#\Code_Interface_abstract_sample\Code_Interface_abstract_sample\obj\Debug\Code_Interface_abstract_sample.pdb
