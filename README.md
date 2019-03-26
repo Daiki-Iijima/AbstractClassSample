@@ -1,0 +1,2 @@
+# AbstractClassSample
+C# AbstractClassSample
